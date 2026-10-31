@@ -217,4 +217,4 @@ it impossible to tell what is causing a problem if something breaks.
 
 ---
 
-*rocket-league-anchor · Updated 2026-10-30 · Shared under the MIT License*
+*rocket-league-anchor · Updated 2026-10-31 · Shared under the MIT License*
